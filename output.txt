@@ -1,0 +1,24 @@
+Enter number of players
+Enter Player Symbol followed by Name
+Enter board Dimensions
+Play until a player wins or no valid move remains
+- - - 
+- - - 
+- - - 
+- - - 
+- X - 
+- - - 
+- - O 
+- X - 
+- - - 
+X - O 
+- X - 
+- - - 
+X O O 
+- X - 
+- - - 
+Cell already filled. Enter again
+X O O 
+- X - 
+- - X 
+Gaurav won the game
